@@ -16,10 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 <p>
-  <img.src="
+  <img src="
     https://github.com/rutvik4940/pizza_app/assets/153794371/f5a9433a-e050-4273-9101-5c5b63d86dc7"heigth="400px"
     width="200px"/>
-    <img.src="
+    <img src="
     https://github.com/rutvik4940/pizza_app/assets/153794371/07fdc368-7150-42de-a214-eb63f367a951"heigth="400px"
       width="200px"/>
 
